@@ -30,6 +30,9 @@
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
   ### Tools
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,8 +44,11 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=for-the-badge&logo=seaborn&logoColor=white)
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![NLP](https://img.shields.io/badge/NLP-FF2D20?style=for-the-badge&logo=nlp&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+
 
   ## 📈 GitHub Stats
   <p align="center">
@@ -50,8 +56,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabih-khan&layout=compact&theme=radical" />
   </p>
 
-  ## 🏆 Achievements
-  - **Bronze Medal on KaggleNotebook**
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a-lotfi&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
   ## 💡 Fun Facts
   - I love **Music and Cooking**
