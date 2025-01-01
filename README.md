@@ -22,11 +22,6 @@
   ## 🤖 Sample Projects
 ![Spam mail](https://github.com/Osisehh/Email-Classifier/blob/master/images/spam.png)
 
-
-  ## 📫 How to Reach Me
-  - Email: [osisehirudunoghena@gmail.com](mailto:osisehirudunoghena@gmail.com)
-  - LinkedIn: [Irudunoghena Osiseh](https://www.linkedin.com/in/osiseh-irudunoghena)
-
   ## 🛠️ Languages and Tools
 
   ### Languages
