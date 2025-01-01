@@ -20,7 +20,7 @@
   - Exploring **You only look once(YOLO)**
 
   ## 🤖 Sample Projects
-![Spam mail](https://github.com/Osisehh/Email-Classifier/blob/master/images/spam.png)
+<img src="https://github.com/Osisehh/Email-Classifier/blob/master/images/spam.png" width="500"/>
 
   ## 🛠️ Languages and Tools
 
@@ -47,6 +47,7 @@
   ## 📈 GitHub Stats
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Osisehh&show_icons=true&theme=radical" alt="Osisehh's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabih-khan&layout=compact&theme=radical" />
   </p>
 
   ## 🏆 Achievements
