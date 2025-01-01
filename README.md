@@ -1,7 +1,7 @@
 <!-- Start of the animated section -->
 <div align="center">
-  <div id="greeting" style="font-size: 2rem; animation: fadeIn 2s ease-in-out infinite;">HELLO, YOU!</div>
-  <div id="name" style="font-size: 1.5rem; animation: slideIn 3s ease-in-out infinite;">I'm OSISEHH 👋</div>
+  <div id="greeting" style="font-size: 2rem;">HELLO, YOU!</div>
+  <div id="name" style="font-size: 1.5rem;">I'm OSISEHH 👋</div>
 </div>
 <!-- End of the animated section -->
 
