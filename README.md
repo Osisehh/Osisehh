@@ -1,7 +1,7 @@
 <!-- Start of the animated section -->
 <div align="center">
-  <div id="greeting" style="font-size: 2rem;">HELLO, YOU!</div>
-  <div id="name" style="font-size: 1.5rem;">I'm OSISEHH 👋</div>
+  <div id="greeting" style="font-size: 2rem;" class="fadeIn">HELLO, YOU!</div>
+  <div id="name" style="font-size: 1.5rem;" class="slideIn">I'm OSISEHH 👋</div>
 </div>
 <!-- End of the animated section -->
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and M
 
 ## 🌱 What I'm Learning
 - Currently diving into **Artificial Intelligence**
-- Exploring **YOLO**
+- Exploring **You Only Look Once(YOLO)**
 
 ## 📫 How to Reach Me
 - Email: [osisehirudunoghena@gmail.com](mailto:osisehirudunoghena@gmail.com)
