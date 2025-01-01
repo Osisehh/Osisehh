@@ -1,16 +1,32 @@
-## Hi there 👋
+# {animated_text}
+## I'm OSISEHH 👋
 
-<!--
-**Osisehh/Osisehh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and Machine Learning. Below, you'll find more information about me and my work.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- **[Email Classifier](https://github.com/Osisehh/Email-Classifier)**: A machine learning project designed to classify emails as spam or non-spam based on their content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- Currently diving into **[Artificial Intelligence ]**
+- Exploring **[YOLO]**
+
+## 📫 How to Reach Me
+- Email: [osisehirudunoghena@gmail.com](mailto:osisehirudunoghena@gmail.com)
+- LinkedIn: [Irudunoghena Osiseh](www.linkedin.com/in/osiseh-irudunoghena)
+
+## 🛠️ Languages and Tools
+- **Languages**: Python, R, SQL, HTML, CSS
+- **Tools**: Git, TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Selenium, Git Docker, NLP
+
+## 📈 GitHub Stats
+![Osisehh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osisehh&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- **[Bronze Medal on KaggleNotebook]**
+
+## 💡 Fun Facts
+- I love **[Music and Cooking]**
+- I'm a **[Fast Learner. I don't slow down]**
+
+## 🤝 Let's Connect
+Feel free to reach out if you want to collaborate on a project, ask questions, or just say hi!
