@@ -97,5 +97,9 @@ svg_content += '</svg>'
 os.makedirs('dist', exist_ok=True)
 
 # Write the SVG file
-with open('dist/github-contribution-chess-game.svg', 'w') as f:
-    f.write(svg_content)
+try:
+    with open('dist/github-contribution-chess-game.svg', 'w') as f:
+        f.write(svg_content)
+except IOError:
+    print("An error occurred while writing the SVG file.")
+    exit(1)
