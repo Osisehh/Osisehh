@@ -53,7 +53,7 @@
   ## 📈 GitHub Stats
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Osisehh&show_icons=true&theme=radical" alt="Osisehh's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabih-khan&layout=compact&theme=radical" />
+  
   </p>
 
   ## 🏆 GitHub Trophies
