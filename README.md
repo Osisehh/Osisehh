@@ -22,8 +22,7 @@ My background in AI taught me how to build smart systems - but now, I focus on s
 
 I started with:
 - 📬 Email spam classifiers
-- 🗣️ Mini chatbots using NLP
-- 🧠 Image classification with deep learning
+- 🗣️ Language Translators
 
 But I realized something powerful...  
 🔁 **Data doesn't just need to be smart - it needs to make sense.**
@@ -42,17 +41,17 @@ Now, I focus on:
 > Executive-level dashboard analyzing 90K+ shipments and $485M revenue  
 > Built with **Excel**, **VBA**, custom slicers, and KPI cards
 
-### 🧁 Bakery Sales Dashboard  
-> Customer behavior, product performance, and revenue trends  
+### 🧁 B&J Biscuit Sales Dashboard  
+> 3 interactive **Excel** dashboards to analyze sakes, profit, and revenue trends. 
 > Clean, interactive visuals using **Excel** and **Pivot Charts**
 
 ### 📧 Email Classifier  
 > NLP-powered ML model to detect spam  
 > Built using **Python**, **Scikit-learn**, and **NLTK**
 
-### 💬 AskAya Chatbot  
-> Empathetic sexual health assistant using **NLP + Flask**  
-> Designed for privacy, awareness, and accessibility
+### 💬 Language Translator 
+> A translator that translate languages **NLP + Flask**  
+> Designed for awareness, and accessibility
 
 ---
 
