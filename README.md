@@ -42,7 +42,8 @@ Now, I focus on:
 > Built with **Excel**, **VBA**, custom slicers, and KPI cards
 
 ### 🧁 B&J Biscuit Sales Dashboard  
-> 3 interactive **Excel** dashboards to analyze sakes, profit, and revenue
+> 3 interactive **Excel** dashboards to analyze sales, profit, and revenue trends
+> 
 > Clean, interactive visuals using **Excel** and **Pivot Charts**
 
 ### 📧 Email Classifier  
