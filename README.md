@@ -1,75 +1,97 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Irudunoghena+Osiseh+Peace!;Data+Analyst+%7C+ML+Enthusiast+%7C+Problem+Solver;Turning+raw+data+into+clarity+%26+insight+📊" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Irudunoghena+Osiseh+Peace!;Business+Intelligence+%26+Data+Analyst;I+don’t+just+analyze+data;I+uncover+the+problems+dashboards+can’t+see+📊" alt="Typing SVG">
 </h1>
-
-<p align="center">
-  <b>From Machine Learning to Meaningful Analytics - my journey through data and decision-making.</b>
-</p>
 
 ---
 
 ## 👩🏽‍💻 About Me
 
-I'm **Irudunoghena Osiseh Peace**, a passionate **Data Analyst** with roots in **Artificial Intelligence and Machine Learning**.  
-My background in AI taught me how to build smart systems - but now, I focus on something equally powerful: helping people and businesses **understand their data clearly**.
+I’m **Irudunoghena Osiseh Peace**, a **Business Intelligence & Data Analyst** who believes data should do more than sit in dashboards.  
 
-💡 I'm driven by this question:  
-**"How can we turn complex data into simple, impactful insights?"**
+To me, data is a language. It should **tell stories, uncover hidden problems, reveal opportunities, and guide smarter business decisions.**  
+
+With expertise in **Power BI, Excel, SQL, and Python**, I transform raw and messy datasets into **clear, actionable insights**. My mission is simple:  
+
+**To BRIDGE the GAP between DATA and BUSINESS by making complex findings UNDERSTANDABLE, IMPACTFUL AND DECISION-READY.**
+
+💡 My philosophy:  
+*Dashboards give you the **what**. I help you uncover the **why.***
 
 ---
 
 ## 🚀 My Journey
 
-I started with:
-- 📬 Email spam classifiers
-- 🗣️ Language Translators
+I started my career exploring **Machine Learning & AI projects**, from building spam classifiers to language translators. But along the way, I realized something powerful:  
+> **Business leaders don’t just need predictions. They need clarity.**  
 
-But I realized something powerful...  
-🔁 **Data doesn't just need to be smart - it needs to make sense.**
+That realization pushed me to focus on **analytics and business intelligence**. Now, my daily work revolves around:  
 
-Now, I focus on:
-- 🔍 Data Analysis & Visualization  
-- 📈 Business Intelligence  
-- 📊 Tools like Excel, SQL, Python & Power BI  
-- 📂 Dashboards that **drive real decisions**
+- Cleaning and preparing messy data  
+- Designing dashboards that go beyond visuals to answer *real business questions*  
+- Writing SQL queries and Python scripts to dig deeper into hidden insights  
+- Using Power BI and Excel to track KPIs, automate reporting, and forecast performance  
+- Communicating insights in a way that sparks **action, not just observation**
+
+---
+
+## 🛠️ My Toolkit
+
+**Databases**  
+- PostgreSQL, SQL Server  
+
+**Visualization**  
+- Power BI, Excel (Power Query, Power Pivot, VBA, Pivot Charts)  
+
+**Programming**  
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+
+**Productivity & Others**  
+- Jupyter Notebook, MS Office Suite (Word, PowerPoint, Outlook)  
 
 ---
 
 ## 💼 Featured Projects
 
-### 🛻 Fleet Management Dashboard  
-> Executive-level dashboard analyzing 90K+ shipments and $485M revenue  
-> Built with **Excel**, **VBA**, custom slicers, and KPI cards
-
-### 🧁 B&J Biscuit Sales Dashboard  
-> 3 interactive **Excel** dashboards to analyze sales, profit, and revenue trends
-> 
-> Clean, interactive visuals using **Excel** and **Pivot Charts**
-
-### 📧 Email Classifier  
-> NLP-powered ML model to detect spam  
-> Built using **Python**, **Scikit-learn**, and **NLTK**
-
-### 💬 Language Translator 
-> A translator that translate languages **NLP + Flask**  
-> Designed for awareness, and accessibility
+### 💡 Business Performance Dashboard 
+Analyzed **$1.6M+ revenue (2022–2024)** to uncover growth opportunities.  
+- Built **4 interactive dashboards** (Overview, Customers, Products, Transactions)  
+- Tracked **KPIs, YoY growth, and campaign ROI**  
+- Delivered insights on **underperforming regions, revenue concentration, and marketing spend optimization**  
 
 ---
 
-## 🛠️ Tools & Skills
+### 🛻 Fleet Management Dashboard  
+An **executive-level Excel dashboard** analyzing **90K+ shipments** and **$485M revenue**.  
+- Automated with **VBA**  
+- Interactive slicers & KPI cards for decision-makers  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+---
 
-**Tools & Libraries**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-268BD2?style=flat-square&logo=seaborn&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 🧁 B&J Biscuit Sales Dashboard  
+Three interactive dashboards to analyze sales, profit, and revenue trends.  
+- Built in **Excel (Power Query + Pivot Charts)**  
+- Delivered clean, engaging visuals to track growth patterns  
+
+---
+
+### 📧 Email Classifier *(ML Project)*  
+A machine learning model built with **Python & NLP** to detect spam emails.  
+- Tools: Scikit-learn, NLTK  
+
+---
+
+### 💬 Language Translator *(ML Project)*  
+A **Flask-based translator** designed for accessibility and awareness.  
+- Tools: Python, NLP pipelines  
+
+---
+
+## 📊 What I Deliver
+
+- **Insights that reveal the story behind the numbers**  
+- **Interactive dashboards and reports** that spark better decision-making  
+- **Data-driven recommendations** that cut costs and boost efficiency  
+- **A problem-solving mindset** that connects analytics to real-world business needs  
 
 ---
 
@@ -90,27 +112,26 @@ Now, I focus on:
 
 ---
 
-## 🎯 Currently Learning
+## 🌱 Currently Exploring
 
-- 🧪 Power Query automation in Excel  
-- 🧠 Advanced SQL for analytics  
-- 📊 DAX for Power BI  
-- 🔄 Time Series & Forecasting  
-- 🎨 Visual storytelling through dashboards
+- Advanced **DAX & Power BI** modeling  
+- **Power Query automation** for reporting  
+- **Time Series & Forecasting** in business scenarios  
+- **Data storytelling** that connects numbers with narratives  
 
 ---
 
 ## 💬 Fun Facts
 
-- ⚡ I learn fast - like, *really* fast  
-- 🎶 I love music, cooking, and clean spreadsheets  
-- 🧩 I’m always testing ways to simplify complexity
+- ⚡ I’m a fast learner. I adapt quickly to new tools and business challenges  
+- 🎶 Outside of data, I’m also a **mezzo-soprano singer** and music lover  
+- 🧩 I love simplifying complexity in analytics, music, and life  
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-If you're looking to collaborate, hire, or chat analytics - I’m here!
+Looking to collaborate, hire, or talk analytics? Let’s chat!  
 
 <p align="center">
   <a href="mailto:osisehirudunoghena@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -120,5 +141,5 @@ If you're looking to collaborate, hire, or chat analytics - I’m here!
 ---
 
 <p align="center">
-  <i>"Thanks for scrolling! Let’s turn numbers into narratives together."</i> 📊✨
+  <i>"Let’s turn your data into decisions."</i> 📊✨
 </p>
